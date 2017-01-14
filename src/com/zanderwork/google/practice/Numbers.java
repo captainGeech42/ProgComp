@@ -1,5 +1,7 @@
 //https://code.google.com/codejam/contest/dashboard?c=32016
 
+//TODO calculation is larger than a long can hold, BigInteger implementation is required
+
 package com.zanderwork.google.practice;
 
 import java.io.File;
