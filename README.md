@@ -1,6 +1,6 @@
 #ProgComp
 
-All of my solutions for various programming challenges/competitions will be in this repository.
+This repository will contain all of my solutions for various programming challenges/competitions.
 
  * `com.zanderwork.facebook` are my solutions for the Facebook Hacker Cup
  * `com.zanderwork.google` are my solutions for the Google Code Jam
